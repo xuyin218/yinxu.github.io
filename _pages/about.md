@@ -18,9 +18,9 @@ redirect_from:
 # Yin Xu
 
 <span class='anchor' id='about-me'></span>
-Hi, there. I am He Sun (孙贺), a second-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
+Hi, there. I am Yin Xu (徐殷), a second-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
 
-My research interests include mobile computing systems (e.g., Crowdsensing, UAV data collection, and data trading), reinforcement learning (Bandits/MARL, etc.), privacy preservation, and game theory. I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, etc.
+My research interests include mobile computing systems (e.g., Crowdsensing, and data trading), privacy preservation (e.g., Differential privacy and federated learning), and game theory (e.g., Auction and Stackelberg game). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, IEEE transactions on industrial informatics, etc.
 
 **I am seeking opportunities for an overseas Research Assistant in 2024 and an overseas Postdoctoral Researcher in 2025. If you are interested in my research, please don't hesitate to contact me.** 
 
