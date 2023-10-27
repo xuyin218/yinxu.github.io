@@ -28,7 +28,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 
 <br/>
 
-# <img src="images/speaker.png" alt="speaker" style="zoom: 33%;" /> <font size=6>News</font>
+# <img src="images/speaker.png" alt="speaker" style="zoom: 28%;" /> <font size=6>News</font>
 <span class='anchor' id='-news'></span>
 
 - [2023.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the National Scholarship!!!
