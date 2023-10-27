@@ -27,22 +27,12 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
-<<<<<<< HEAD
 - [2023.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the National Scholarship!!!
 - [2023.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  The paper accepted in MASS 2023 was awarded Best Paper!!! [[link]](https://cis.temple.edu/ieeemass2023/)
 - [2023.04] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  One paper is accepted by IEEE TMC!
 - [2022.12] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" /> Two of my authored papers were accepted by IEEE INFOCOM 2023!
 - [2022.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the Huawei Scholarship!
 - [2021.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the Wang Xiaomo Scholarship and Suzhou Industrial Park Scholarship!
-=======
-- [2023.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" /> I won the National Scholarship!!!
-- [2023.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /> The paper accepted in MASS 2023 was awarded Best Paper!!! [[link]](https://cis.temple.edu/ieeemass2023/)
-- [2023.04] <img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /><img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /> One paper is accepted by IEEE TMC!
-- [2022.12] <img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /><img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /> Two of my authored papers were accepted by IEEE INFOCOM 2023!
-- [2022.10] <img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /><img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /> I won the Huawei Scholarship!
-- [2021.10] <img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /><img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /> I won the Wang Xiaomo Scholarship and Suzhou Industrial Park Scholarship!
->>>>>>> 42532d6e125a3282613d5ee6c305b9c37ed5a5e1
-
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
 ## Journals
