@@ -20,21 +20,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi, there. I am Yin Xu (徐殷), a three-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
 
-My research interests include mobile computing systems (e.g., Crowdsensing, and data trading), privacy preservation (e.g., Differential privacy and federated learning), and game theory (e.g., Auction and Stackelberg game). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, IEEE transactions on industrial informatics, etc.
+My research interests include mobile computing systems (e.g., Crowdsensing, and data trading), privacy preservation (e.g., Differential privacy and federated learning), and game theory (e.g., Auction and Stackelberg game). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, IEEE Transactions on Industrial Informatics, IEEE Internet of Things Journal, etc.
 
-**I am seeking opportunities for an overseas Research Assistant in 2024 and an overseas Postdoctoral Researcher in 2025. If you are interested in my research, please don't hesitate to contact me.** 
+**I am seeking opportunities . If you are interested in my research, please don't hesitate to contact me.** 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- [2023.10] 🎉🎉 The paper accepted in MASS 2023 was awarded Best Paper!!! [[link]](https://cis.temple.edu/ieeemass2023/)
-- [2023.5] 🎉🎉 One paper was submitted to TMC.
-- [2023.3] 🎉🎉 I won the Suzhou Industrial Park Scholarship!
-- [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship!
-- [2022.12] 🎉🎉 Two of my authored papers were accepted by IEEE INFOCOM 2023!
+
+- [2023.10] <img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /><img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /> I won the National Scholarship!!!
+- [2023.10] <img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /><img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /> The paper accepted in MASS 2023 was awarded Best Paper!!! [[link]](https://cis.temple.edu/ieeemass2023/)
+- [2023.04] <img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /><img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /> One paper is accepted by IEEE TMC!
+- [2022.12] <img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /><img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /> Two of my authored papers were accepted by IEEE INFOCOM 2023!
+- [2022.10] <img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /><img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /> I won the Huawei Scholarship!
+- [2021.10] <img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /><img src="D:\HomePage\xuyin.github.io\images\confetty.png" alt="confetty" style="zoom:50%;" /> I won the Wang Xiaomo Scholarship and Suzhou Industrial Park Scholarship!
 
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
-## Conferences
+## Journals
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10228966) [[Slide]](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a>  Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023. [[Paper]](https://ieeexplore.ieee.org/document/10226047)
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'23]</b></a>  Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023. (**Best Paper Award**)
@@ -43,7 +45,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 - **He Sun**, Mingjun Xiao, etc. "Cooperative Multi-drone Data Collection with Edge Storage", (In Submission)
 - **He Sun**, Mingjun Xiao, etc. "Bandit Learning in Matching Market with State", (In Submission)
 
-## Journals
+## Conferences
 - **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2023 (Under Review)
 - Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2023 (Under Review)
 
