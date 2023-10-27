@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# <font size=7>**Yin Xu**</font>
+# <font size=6>Yin Xu</font>
 
 <span class='anchor' id='about-me'></span>
 Hi, there. I am Yin Xu (徐殷), a three-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
@@ -26,9 +26,9 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 
 **Email: xuyin218@mail.ustc.edu.cn** 
 
-<br/><br/>
+<br/>
 
-# 🔥 <font size=7>News</font>
+# 🔥 <font size=6>News</font>
 <span class='anchor' id='-news'></span>
 
 - [2023.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the National Scholarship!!!
@@ -38,9 +38,9 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 - [2022.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the Huawei Scholarship!
 - [2021.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the Wang Xiaomo Scholarship and Suzhou Industrial Park Scholarship!
 
-<br/><br/>
+<br/>
 
-# 📝 Publications 
+# 📝 <font size=6>Publications</font> 
 
 <span class='anchor' id='-publications'></span>
 
@@ -68,9 +68,9 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 - Mingjun Xiao, **Yin Xu**, Qing Zhang. "A trusted data transaction evaluation method based on blockchain and homomorphic encryption",  Application number: CN202211225034.1, Publication number: CN115712906A, Application date: 2022.10.09, Publication date: 2023.02.24.
 - Mingjun Xiao, **Yin Xu**. "An Age-of-information-aware pricing method for mobile crowdsensing systems",  Application number: CN202310166794.8, Publication number: CN116308483A, Application date: 2023.02.09, Publication date: 2023.02.24.
 
-<br/><br/>
+<br/>
 
-# 📖 Professional Services
+# 📖 <font size=6>Professional Services</font>
 
 <span class='anchor' id='-services'></span>
 ## Conferences
@@ -84,9 +84,9 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 - IEEE Transactions on Network and Service  Management (TNSM): Reviewer
 - Information Science: External reviewer
 
-<br/><br/>
+<br/>
 
-# 🏆 Honors and Awards
+# 🏆 <font size=6>Honors and Awards</font>
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -100,10 +100,11 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 - First Prize in Summer Internship Project Practice (2018.06)
 - 4 Times First Scholarship at AHU (2015-2019)
 
-<br/><br/>
+<br/>
 
-# 🎓 Educations
+# 🎓 <font size=6>Educations</font>
 <span class='anchor' id='-educations'></span>
+
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
@@ -130,18 +131,18 @@ School of Computer Science and Technology, Anhui University (AHU), Hefei, Anhui.
 </div>
 </div>
 
-<br/><br/>
+<br/>
 
-# 💬 Talks
+# 💬 <font size=6>Talks</font>
 
 <span class='anchor' id='-invited-talks'></span>
 
 - *2023.05*: &nbsp; IEEE INFOCOM 2023, 17-20 May, Stevens Institute of Technology, New York Area. 
 - *2020.09*: &nbsp; ACM DASFAA 2020, 24-27 September, Jeju, South Korea.
 
-<br/><br/>
+<br/>
 
-# 💻 Project
+# 💻 <font size=6>Project</font>
 
 <span class='anchor' id='-Project'></span>
 
