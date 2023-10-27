@@ -22,7 +22,9 @@ Hi, there. I am Yin Xu (徐殷), a three-year Ph.D. student in the [Department o
 
 My research interests include mobile computing systems (e.g., Crowdsensing, and data trading), privacy preservation (e.g., Differential privacy and federated learning), and game theory (e.g., Auction and Stackelberg game). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, IEEE Transactions on Industrial Informatics, IEEE Internet of Things Journal, etc.
 
-**I am actively seeking academic positions. If you are interested in my research, please don't hesitate to contact me. Email: xuyin218@mail.ustc.edu.cn** 
+**I am actively seeking academic positions. If you are interested in my research, please don't hesitate to contact me. **
+
+**Email: xuyin218@mail.ustc.edu.cn** 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
@@ -33,8 +35,13 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 - [2022.12] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" /> Two of my authored papers were accepted by IEEE INFOCOM 2023!
 - [2022.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the Huawei Scholarship!
 - [2021.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the Wang Xiaomo Scholarship and Suzhou Industrial Park Scholarship!
+
+
+
 # 📝 Publications 
+
 <span class='anchor' id='-publications'></span>
+
 ## Journals
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC]</b></a> **Yin Xu**, Mingjun Xiao,Yu Zhu, Jie Wu, Sheng Zhang, Jinrui Zhou. "AoI-guaranteed Incentive Mechanism for Mobile Crowdsensing with Freshness Concerns'', IEEE Transactions on Mobile Computing, June 13, 2023.
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC]</b></a> **Yin Xu**, Mingjun Xiao, Jie Wu, Haisheng Tan, and Guoju Gao. ''A Personalized Privacy Preserving Mechanism for Crowdsourced Federated Learning'', IEEE Transactions on Mobile Computing, January 17, 2023.
