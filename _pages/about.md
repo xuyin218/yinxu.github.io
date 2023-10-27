@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# Yin Xu
+# <font size=8>Yin Xu</font>
 
 <span class='anchor' id='about-me'></span>
 Hi, there. I am Yin Xu (徐殷), a three-year Ph.D. student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
@@ -26,7 +26,11 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 
 **Email: xuyin218@mail.ustc.edu.cn** 
 
-# 🔥 News
+
+
+
+
+# 🔥 <font size=8>News</font>
 <span class='anchor' id='-news'></span>
 
 - [2023.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the National Scholarship!!!
@@ -83,7 +87,6 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 # 🏆 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
 
-## Honors
 - National Scholarship at USTC (2023.10)
 - Huawei Scholarship at USTC (2022.10)
 - Suzhou Industrial Park Scholarship at USTC (2022.3)
