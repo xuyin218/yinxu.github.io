@@ -80,68 +80,64 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 - IEEE Transactions on Network and Service  Management (TNSM): Reviewer
 - Information Science: External reviewer
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
 
 ## Honors
-- Suzhou Industrial Park Scholarship at USTC (2023.3)
-- "Yang Yuanqing" Scholarship at USTC (2022.12)
-- Second scholarship at USTC (2022.9)
-- First scholarship at USTC (2021.9)
-- Excellent League member at USTC( 2021.4)
-- Second scholarship at USTC (2020.9)
-- 5 times first scholarship at QDU (2016-2020)
-- Shuguang scholarship (2019.10)
-- Outstanding student leaders prize at QDU (2018.10)
-- Outstanding graduate prize at QDU (2020.5)
+- National Scholarship at USTC (2023.10)
+- Huawei Scholarship at USTC (2022.10)
+- Suzhou Industrial Park Scholarship at USTC (2022.3)
+- Wang Xiaomo Scholarship at USTC (2021.10)
+- 4 Times First Scholarship at USTC (2019-2023)
+- Outstanding Graduate Prize at AHU (2019.06)
+- Outstanding Student Award at AHU (2018.12)
+- First Prize in Summer Internship Project Practice (2018.06)
+- 4 Times First Scholarship at AHU (2015-2019)
 
-## Competitions Awards
-- Second Prize in China software open source innovation competition (National College Green Computing) Contest-21 (Open source project innovation competition) by CCF, 2021.
-- Outstanding Winner(No.1) in National College Green Computing Contest-19 (Project Challenge) by CCF, 2019.
-- Outstanding Winner(No.3) in National College Green Computing Contest-18 (Project Challenge) by CCF, 2018.
-- Third Prize in Math Competition for College Students, 2019. 
-- Third Prize(Top 8) in Imagine Cup 2018 of Microsoft, 2018. 
-- First prize in the National High School Mathematics Competition in Shandong Province, 2015.
+
 
 # 🎓 Educations
 <span class='anchor' id='-educations'></span>
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2022.09 - 2025.06 (Expected), Ph.D. Student.
+2021.09 - 2024.06 (Expected), Ph.D. Student.
 
-School of Computer Science and Technology, University of Science and Technology of China (CS, USTC), Hefei, Anhui.
+School of Computer Science and Technology, University of Science and Technology of China (USTC), Hefei, Anhui.
 </div>
 </div>
 
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2020.09 - 2022.6, Master Student.
+2019.09 - 2021.6, M.S. Student.
 
-School of Cyberspace Security, University of Science and Technology of China (CS, USTC), Hefei, Anhui.
+School of Cyberspace Security, University of Science and Technology of China (USTC), Hefei, Anhui.
 </div>
 </div>
 
 <div class='school-box'>
-<div><img src='images/qdu.png' alt="sym" width="80"></div>
+<div><img src='images/ahu.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2016.09 - 2020.06, B.S. School of Computer Science and Technology.<br>
-2017.09 - 2020.06, B.A. School of Foreign Languages.
+2015.09 - 2019.06, B.S. Student.<br>
 
-Qingdao University (QDU), Qingdao.
+School of Computer Science and Technology, Anhui University (AHU), Hefei, Anhui.
 </div>
 </div>
 
 # 💬 Talks
 <span class='anchor' id='-invited-talks'></span>
-- *2023.05*: &nbsp; IEEE INFOCOM 2023, 17-20 May, Stevens Institute of Technology, New York Area. [slides](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)
+
+- *2023.05*: &nbsp; IEEE INFOCOM 2023, 17-20 May, Stevens Institute of Technology, New York Area. 
+- *2020.09*: &nbsp; ACM DASFAA 2020, 24-27 September, Jeju, South Korea.
 
 # 💻 Project
 <span class='anchor' id='-Project'></span>
-- National Innovation and Entrepreneurship Program for College Students in China, The Research and Development of Parking Sharing System in Smart City, 2018.5-2020.5.: **Project leader**
-- Project of National Natural Science Foundation of China, Research on Intelligent and Trusted Cooperation Mechanism of Mobile Group Intelligence Computing based on blockchain, 2022.01-2025.12: **Core member**
-- Project of National Natural Science Foundation of China, Research on Key Technologies of Secure and Trusted Mobile Group Intelligence Sensing Data Trading System, 2019.01-2022.12：**Core member**
-- Jiangsu Provincial Natural Science Foundation Project, Research on Key Technologies of Data Trading System based on Mobile Group Intelligence Perception, 2019.07-2022.0：**Core member**
+
+- National Innovation and Entrepreneurship Program for College Students in China, Research on Secure Double Auction Mechanism Based on Homomorphic Encryption and Sorting Networks, 2017.05-2018.05: **Project Leader**
+- Project of National Natural Science Foundation of China, Research on Intelligent and Trusted Cooperation Mechanism of Mobile Group Intelligence Computing based on blockchain, 2022.01-2025.12: **Core Member**
+- Technological Innovation 2030-"New Generation Artificial Intelligence" Major Project, Research on Group Intelligent Collaborative Decision-making and Continuous Control Methods, 2019.12-2022.12: **Core Member**
+- Project of National Natural Science Foundation of China, Research on Key Technologies of Secure and Trusted Mobile Group Intelligence Sensing Data Trading System, 2019.01-2022.12: **Core Member**
+- Jiangsu Provincial Natural Science Foundation Project, Research on Key Technologies of Data Trading System based on Mobile Group Intelligence Perception, 2019.07-2022.0: **Core Member**
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LqdKMIUIOitYiwaA4JQq_FwX-hC5DUE7OOLAKpsMmV8&cl=ffffff&w=a"></script>
