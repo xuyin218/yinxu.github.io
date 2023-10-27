@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "He Sun"
+title                    : "Yin Xu"
 description              : ""
-repository               : "github.com/ustc-sunny/ustc-sunny.github.io"
+repository               : "xuyin218.github.io/xuyin.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "He Sun"
+  name             : "Yin Xu"
   avatar           : "images/hesun.jpg"
   bio              : "Ph.D. student of Computer Science, USTC"
   location         : "Hefei, China"
