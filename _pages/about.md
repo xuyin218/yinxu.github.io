@@ -103,14 +103,13 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 
 <br/>
 
-# 🎓 <font size=6>Educations</font>
+# <img src="images/education.png" alt="education" style="zoom:70%;" /> <font size=6>Educations</font>
 <span class='anchor' id='-educations'></span>
 
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2021.09 - 2024.06 (Expected), Ph.D. Student.
-
 School of Computer Science and Technology, University of Science and Technology of China (USTC), Hefei, Anhui.
 </div>
 </div>
@@ -134,16 +133,18 @@ School of Computer Science and Technology, Anhui University (AHU), Hefei, Anhui.
 
 <br/>
 
-# 💬 <font size=6>Talks</font>
+# <img src="images/communication.png" alt="communication" style="zoom:50%;" /> <font size=6>Activity</font>
 
 <span class='anchor' id='-invited-talks'></span>
 
 - *2023.05*: &nbsp; IEEE INFOCOM 2023, 17-20 May, Stevens Institute of Technology, New York Area. 
 - *2020.09*: &nbsp; ACM DASFAA 2020, 24-27 September, Jeju, South Korea.
+- *2022-2023*: Organizational Committee Member of the Network and Information Security Party Branch, Dept. of Computer Science and Technology, USTC.
+- *2022-2024*: Minister of Academic Department of Student Union, Suzhou Institute for Advanced Research, USTC.
 
 <br/>
 
-# 💻 <font size=6>Project</font>
+# <img src="images/agreement.png" alt="agreement" style="zoom:50%;" /> <font size=6>Project</font>
 
 <span class='anchor' id='-Project'></span>
 
