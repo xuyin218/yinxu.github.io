@@ -103,7 +103,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 
 <br/>
 
-# <img src="images/education.png" alt="education" style="zoom:70%;" /> <font size=6>Educations</font>
+# <img src="images/education.png" alt="education" style="zoom:60%;" /> <font size=6>Educations</font>
 <span class='anchor' id='-educations'></span>
 
 <div class='school-box'>
@@ -133,7 +133,7 @@ School of Computer Science and Technology, Anhui University (AHU), Hefei, Anhui.
 
 <br/>
 
-# <img src="images/communication.png" alt="communication" style="zoom:50%;" /> <font size=6>Activity</font>
+# <img src="images/communication.png" alt="communication" style="zoom:40%;" /> <font size=6>Activity</font>
 
 <span class='anchor' id='-invited-talks'></span>
 
@@ -144,7 +144,7 @@ School of Computer Science and Technology, Anhui University (AHU), Hefei, Anhui.
 
 <br/>
 
-# <img src="images/agreement.png" alt="agreement" style="zoom:50%;" /> <font size=6>Project</font>
+# <img src="images/agreement.png" alt="agreement" style="zoom:40%;" /> <font size=6>Project</font>
 
 <span class='anchor' id='-Project'></span>
 
