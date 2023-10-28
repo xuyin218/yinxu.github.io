@@ -22,7 +22,7 @@ Hi, there. I am Yin Xu (徐殷), a three-year Ph.D. student in the [Department o
 
 My research interests include mobile computing systems (e.g., Crowdsensing, and data trading), privacy preservation (e.g., Differential privacy and federated learning), and game theory (e.g., Auction and Stackelberg game). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, IEEE Transactions on Industrial Informatics, IEEE Internet of Things Journal, etc.
 
-**I am actively seeking academic positions. If you are interested in my research, please don't hesitate to contact me. **
+**I am actively seeking academic positions. If you are interested in my research, please don't hesitate to contact me.**
 
 **Email: xuyin218@mail.ustc.edu.cn** 
 
@@ -135,7 +135,7 @@ School of Computer Science and Technology, Anhui University (AHU), Hefei, Anhui.
 
 <br/>
 
-# <img src="images/communication.png" alt="communication" style="zoom:40%;" />  <font size=6> Activity</font>
+# <img src="images/communication.png" alt="communication" style="zoom:40%;" />  <font size=6> Activities</font>
 
 <span class='anchor' id='-invited-talks'></span>
 
@@ -146,7 +146,7 @@ School of Computer Science and Technology, Anhui University (AHU), Hefei, Anhui.
 
 <br/>
 
-# <img src="images/agreement.png" alt="agreement" style="zoom:40%;" /> <font size=6>Project</font>
+# <img src="images/agreement.png" alt="agreement" style="zoom:40%;" /> <font size=6>Projects</font>
 
 <span class='anchor' id='-Project'></span>
 
