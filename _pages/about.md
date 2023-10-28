@@ -135,7 +135,7 @@ School of Computer Science and Technology, Anhui University (AHU), Hefei, Anhui.
 
 <br/>
 
-# <img src="images/communication.png" alt="communication" style="zoom:40%;" /> <font size=6>Activity</font>
+# <img src="images/communication.png" alt="communication" style="zoom:40%;" />  <font size=6> Activity</font>
 
 <span class='anchor' id='-invited-talks'></span>
 
