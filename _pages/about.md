@@ -28,7 +28,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 
 <br/>
 
-# <img src="images/speaker.png" alt="3d-speaker" style="zoom: 33%;" /> <font size=6>News</font>
+# <img src="images/speaker.png" alt="speaker" style="zoom: 28%;" /> <font size=6>News</font>
 <span class='anchor' id='-news'></span>
 
 - [2023.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the National Scholarship!!!
@@ -40,7 +40,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 
 <br/>
 
-# 📝 <font size=6>Publications</font> 
+# <img src="images/content.png" alt="content" style="zoom: 50%;" /> <font size=6>Publications</font> 
 
 <span class='anchor' id='-publications'></span>
 
@@ -70,7 +70,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 
 <br/>
 
-# 📖 <font size=6>Professional Services</font>
+# <img src="images/book.png" alt="book" style="zoom:50%;" /> <font size=6>Professional Services</font>
 
 <span class='anchor' id='-services'></span>
 ## Conferences
@@ -86,7 +86,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 
 <br/>
 
-# 🏆 <font size=6>Honors and Awards</font>
+# <img src="images/trophy.png" alt="trophy" style="zoom:80%;" /> <font size=6>Honors and Awards</font>
 
 <span class='anchor' id='-honors-and-awards'></span>
 
