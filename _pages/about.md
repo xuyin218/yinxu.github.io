@@ -41,7 +41,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 
 <br/>
 
-# <img src="images/content.png" alt="content" style="zoom: 40%;" /> <font size=6>Publications</font> 
+# <img src="images/content.png" alt="content" style="zoom: 50%;" /> <font size=6>Publications</font> 
 
 <span class='anchor' id='-publications'></span>
 
@@ -109,31 +109,28 @@ My research interests include mobile computing systems (e.g., Crowdsensing, and 
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2021.09 - 2024.06 (Expected), Ph.D. Student.
-School of Computer Science and Technology, University of Science and Technology of China (USTC), Hefei, Anhui.
-</div>
+2021.09 - 2024.06 (Expected), Ph.D. Student.<br>Major: Computer Science and Technology/Information Security. <br>School of Computer Science and Technology, University of Science and Technology of China (USTC), Hefei, Anhui.</div>
 </div>
 
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2019.09 - 2021.6, M.S. Student.
-
-School of Cyberspace Security, University of Science and Technology of China (USTC), Hefei, Anhui.
+2019.09 - 2021.6, M.S. Student.<br>Major: Cyberspace Security. <br>School of Cyberspace Security, University of Science and Technology of China (USTC), Hefei, Anhui.
 </div>
 </div>
 
 <div class='school-box'>
 <div><img src='images/ahu.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2015.09 - 2019.06, B.S. Student.<br>
+2015.09 - 2019.06, B.S. Student.<br>Major: Network Engineering.<br> 
 School of Computer Science and Technology, Anhui University (AHU), Hefei, Anhui.
 </div>
 </div>
 
+
 <br/>
 
-# <img src="images/communication.png" alt="communication" style="zoom:40%;" /> <font size=6>Activity</font>
+# <img src="images/communication.png" alt="communication" style="zoom:35%;" /> <font size=6>Activity</font>
 
 <span class='anchor' id='-invited-talks'></span>
 
