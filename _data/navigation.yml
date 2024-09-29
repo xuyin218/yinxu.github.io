@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "News"
-    url: "/xuyin.github.io/#-news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/xuyin.github.io/#-publications"
+    url: "/#-publications"
   
   - title: "Professional Services"
-    url: "/xuyin.github.io/#-services"
+    url: "/#-services"
 
   - title: "Honors and Awards"
     url: "/xuyin.github.io/#-honors-and-awards"
